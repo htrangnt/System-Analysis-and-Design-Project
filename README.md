@@ -1,7 +1,7 @@
 # System-Analysis-and-Design-Project
 
 ## Giới thiệu
-Dự án được thực hiện nhằm phân tích và thiết kế Hệ thống thông tin quản lý bán hàng cho Bách Hóa Xanh.
+Dự án được thực hiện nhằm phân tích và thiết kế Hệ thống thông tin quản lý bán hàng mô phỏng Bách Hóa Xanh.
 
 Nội dung tập trung vào khảo sát nghiệp vụ, xác định yêu cầu hệ thống, mô hình hóa quy trình hoạt động và thiết kế cơ sở dữ liệu nhằm đề xuất giải pháp quản lý phù hợp cho doanh nghiệp.
 
