@@ -39,7 +39,7 @@ Nội dung tập trung vào khảo sát nghiệp vụ, xác định yêu cầu h
 ### Mô hình DFD Mức 1
 ![Mô hình DFD mức 1](Image/DFD_1.png)
 
-## Giao diện mô phỏng hệ thống
+## Giao diện minh họa của dự án
 ### Quản lý phiếu xuất
 ![Quản lý phiếu xuất](Image/QLPX.png)
 
