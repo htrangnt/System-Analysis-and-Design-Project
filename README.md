@@ -1,4 +1,4 @@
-# Project-System-Analysis-and-Design
+# System-Analysis-and-Design-Project
 
 ## Giới thiệu
 Dự án được thực hiện nhằm phân tích và thiết kế Hệ thống thông tin quản lý bán hàng cho Bách Hóa Xanh.
